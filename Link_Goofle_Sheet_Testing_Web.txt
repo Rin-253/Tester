@@ -1,0 +1,4 @@
+Link test màn hình change password: https://docs.google.com/spreadsheets/d/1ORNeLKIdejZk8kchFYL5EFoyfux21rWugGTmVQlO4Fg/edit?gid=0#gid=0
+Link test màn hình trang chủ vinfast: https://docs.google.com/spreadsheets/d/1Astpj1uE3Hta2kumvpYKsZ1-ZDGIQ6-89B0Jw3vUd1I/edit?gid=0#gid=0
+Link test chức năng "History Courses" ở màn hình quản trị viên và giảng viên: https://docs.google.com/spreadsheets/d/1YDhkiLFnlDHufL1XVRLQm7HMpY0H_ImLgkTtk36PUu0/edit?gid=0#gid=0
+Link test chức năng Quản lý giảng viên: https://docs.google.com/spreadsheets/d/1LiRw0BKaDIJGmECwWQlzGG6NLL0CPLdwkDDZnk1_8tw/edit?gid=0#gid=0
